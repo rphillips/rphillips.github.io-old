@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ryan Phillips</title>
+    <link>https://trolocsis.com/tags/</link>
+    <description>Recent content in Tags on Ryan Phillips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>ryan@trolocsis.com (Ryan Phillips)</managingEditor>
+    <webMaster>ryan@trolocsis.com (Ryan Phillips)</webMaster>
+    <copyright>(C) 2019 Ryan Phillips</copyright>
+    <lastBuildDate>Tue, 29 May 2018 15:11:50 -0500</lastBuildDate>
+    
+	<atom:link href="https://trolocsis.com/tags/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>laptop</title>
+      <link>https://trolocsis.com/tags/laptop/</link>
+      <pubDate>Tue, 29 May 2018 15:11:50 -0500</pubDate>
+      <author>ryan@trolocsis.com (Ryan Phillips)</author>
+      <guid>https://trolocsis.com/tags/laptop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>t470s</title>
+      <link>https://trolocsis.com/tags/t470s/</link>
+      <pubDate>Tue, 29 May 2018 15:11:50 -0500</pubDate>
+      <author>ryan@trolocsis.com (Ryan Phillips)</author>
+      <guid>https://trolocsis.com/tags/t470s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thinkpad</title>
+      <link>https://trolocsis.com/tags/thinkpad/</link>
+      <pubDate>Tue, 29 May 2018 15:11:50 -0500</pubDate>
+      <author>ryan@trolocsis.com (Ryan Phillips)</author>
+      <guid>https://trolocsis.com/tags/thinkpad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drafts</title>
+      <link>https://trolocsis.com/tags/drafts/</link>
+      <pubDate>Thu, 07 Nov 2013 09:31:44 +0000</pubDate>
+      <author>ryan@trolocsis.com (Ryan Phillips)</author>
+      <guid>https://trolocsis.com/tags/drafts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ios</title>
+      <link>https://trolocsis.com/tags/ios/</link>
+      <pubDate>Thu, 07 Nov 2013 09:31:44 +0000</pubDate>
+      <author>ryan@trolocsis.com (Ryan Phillips)</author>
+      <guid>https://trolocsis.com/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

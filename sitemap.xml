@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://trolocsis.com/posts/20180529-laptop-throttling/</loc>
+    <lastmod>2018-05-29T15:11:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trolocsis.com/posts/</loc>
+    <lastmod>2018-05-29T15:11:50-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trolocsis.com/</loc>
+    <lastmod>2018-05-29T15:11:50-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trolocsis.com/tags/</loc>
+    <lastmod>2018-05-29T15:11:50-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trolocsis.com/tags/laptop/</loc>
+    <lastmod>2018-05-29T15:11:50-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trolocsis.com/tags/t470s/</loc>
+    <lastmod>2018-05-29T15:11:50-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trolocsis.com/tags/thinkpad/</loc>
+    <lastmod>2018-05-29T15:11:50-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trolocsis.com/posts/20131107-drafts/</loc>
+    <lastmod>2013-11-07T09:31:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trolocsis.com/tags/drafts/</loc>
+    <lastmod>2013-11-07T09:31:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trolocsis.com/tags/ios/</loc>
+    <lastmod>2013-11-07T09:31:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trolocsis.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://trolocsis.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
